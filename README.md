@@ -6,4 +6,3 @@ You can make your own blog using wiki style markdown language
 - wiki-style mark down
 - admin page
 - realtime mark down editor
-- 
